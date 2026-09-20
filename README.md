@@ -10,7 +10,7 @@ For information about creating and using custom pets, see the
 
 ## Pets
 
-- **Micro** — A retro toy microcomputer with a beige case, green screen eyes, keyboard, and waving cable.
+- **[Micro](https://github.com/mantraspace/codex-pets/tree/main/micro)** — A retro toy microcomputer with a beige case, green screen eyes, keyboard, and waving cable.
 
 ## About
 
