@@ -1,5 +1,7 @@
 # Micro
 
+![Micro](assets/micro-preview.png)
+
 A custom pet for Codex.
 
 Micro is a retro toy microcomputer pet with a beige case, green screen
