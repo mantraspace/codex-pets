@@ -1,0 +1,67 @@
+Micro
+
+© 2026 Franck Gosselin
+
+Franck Gosselin, Founder of Oniric Forge.
+https://www.oniricforge.com
+
+Micro was created and developed by Franck Gosselin with the assistance
+of generative AI tools and substantial human creative direction,
+selection, editing, and refinement.
+
+Definition of Micro
+
+For the purposes of this notice, "Micro" refers to the original custom
+Codex pet created and developed by Franck Gosselin.
+
+A custom Codex pet is a user-created animated character designed for
+use with Codex, OpenAI's AI coding agent. It is represented within
+Codex through a pet manifest and associated visual assets and
+animations.
+
+Micro includes its character design, visual appearance, sprite
+artwork, animations, spritesheet, pet manifest, documentation, and
+the original files distributed as part of the Micro pet package.
+
+Micro is depicted as a retro toy microcomputer with a beige case,
+green screen eyes, keyboard, and waving coiled cable.
+
+References to "Micro" in this notice include the Micro character and
+the original Micro pet package, except where the context clearly
+indicates otherwise.
+
+Codex:
+https://openai.com/codex/
+
+Official Pets documentation:
+https://learn.chatgpt.com/docs/pets
+
+License
+
+To the extent that copyright and related rights are held by Franck
+Gosselin, Micro is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International
+(CC BY-NC-ND 4.0) license.
+
+You may copy and redistribute Micro in any medium or format for
+noncommercial purposes, provided that appropriate credit is given to
+Franck Gosselin and a link to the license is included.
+
+You may not distribute modified or adapted versions of Micro under
+this license.
+
+The Micro name, character identity, and associated branding are not
+licensed for use as trademarks, trade names, mascots, or branding.
+
+Suggested credit:
+Micro © 2026 Franck Gosselin — CC BY-NC-ND 4.0.
+
+License:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Full legal terms:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+This notice identifies the license and its intended scope. The
+Creative Commons legal terms govern the rights granted under the
+license.

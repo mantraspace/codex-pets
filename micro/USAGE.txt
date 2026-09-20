@@ -1,0 +1,16 @@
+Micro is shared under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International
+(CC BY-NC-ND 4.0) license.
+
+You may use and share the original Micro pet for noncommercial
+purposes with appropriate attribution to Franck Gosselin.
+
+Commercial use and distribution of modified or adapted versions are
+not permitted under this license.
+
+Suggested credit:
+Micro © 2026 Franck Gosselin — CC BY-NC-ND 4.0.
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+See LICENSE.txt for additional information.

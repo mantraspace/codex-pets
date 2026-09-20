@@ -1,0 +1,7 @@
+{
+  "id": "micro",
+  "displayName": "Micro",
+  "description": "A retro toy microcomputer with a beige case, green screen eyes, keyboard, and waving cable.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
