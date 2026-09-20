@@ -1,6 +1,6 @@
 # Micro
 
-![Micro](assets/micro-preview.png)
+<img src="assets/micro-preview.png" alt="Micro" width="300">
 
 A custom pet for Codex.
 
